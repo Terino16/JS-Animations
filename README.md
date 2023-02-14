@@ -3,12 +3,9 @@
 ## ⚡️ Quick Start
 
 ```bash
-yarn create next-app -e https://github.com/colbyfayock/demo-landing-starter
+yarn create next-app 
 # or
-npx create-next-app -e https://github.com/colbyfayock/demo-landing-starter
+npx create-next-app
 ```
-
 ## Final Demo
-
-https://github.com/colbyfayock/my-scrolly-event
 # JS-Animations
